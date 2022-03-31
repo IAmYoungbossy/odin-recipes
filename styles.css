@@ -1,0 +1,48 @@
+body {
+    background-color: grey;
+}
+
+#first {
+    width: 800px;
+}
+
+#second {
+    width: 800px;
+    height: 400px;
+}
+
+#third {
+    width: 800px;
+    height: 400px;
+}
+
+.centre {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+.heading {
+    text-align: center;
+    margin: 0px 0px 0px 50px;
+    color: rgb(5, 67, 5);
+}
+
+#li2 {
+    margin: 0px 0px 0px 14.2px;
+}
+
+#li3 {
+    margin: 0px 0px 0px 6.7px;
+}
+
+#menu1 {
+    margin: 10px 0px -10px 50px;
+}
+
+p {
+    color: brown;
+}
